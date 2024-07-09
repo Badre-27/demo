@@ -1,3 +1,3 @@
 # learning
 
-learning for Math
+learning for Math !
